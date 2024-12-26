@@ -3,7 +3,7 @@
 - 👀 **Interests:** Technology, firmware development, and troubleshooting hardware/software systems.
 - 🌱 **Currently learning:** Advanced IoT systems, embedded programming, and the latest trends in device optimization.
 - 💞️ **Looking to collaborate on:** Open-source tools for technicians, firmware customization, and innovative projects in the tech domain.
-- 📫 **How to reach me:** technicien31@example.com (replace with your actual email) or via [LinkedIn](https://www.linkedin.com/in/technicien31/).
+- 📫 **How to reach me:** kevincavane@gmail.coma [LinkedIn](https://www.linkedin.com/in/technicien31/).
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy reverse-engineering devices to understand how they work—and fixing them faster than they break!
 
